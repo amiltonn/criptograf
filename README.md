@@ -1,4 +1,5 @@
-# criptograffrase=input("Qual a frase para criptografar: ")
+# criptograf
+frase=input("Qual a frase para criptografar: ")
 
 resultado=""
 metade=int(len(frase)/2)
